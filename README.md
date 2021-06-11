@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ikyriazi/fma/master)
+
 # FMA: A Dataset For Music Analysis
 
 [Michaël Defferrard](https://deff.ch),
